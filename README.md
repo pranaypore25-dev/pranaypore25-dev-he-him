@@ -37,7 +37,7 @@ Power BI · Python (pandas) · Predictive Analytics · Business Intelligence
 
 | Project | Business question | Tools | Status |
 |---|---|---|---|
-| Olist E-commerce Analysis | How do delivery delays affect reviews and repeat purchases? | MySQL | In progress |
+| Olist E-commerce Analysis | How do delivery delays affect reviews and repeat purchases? | MySQL | Complete |
 | Customer Churn Dashboard | Which customers are likely to leave, and why? | Python, Power BI | Planned |
 | Domain Project | To be decided | To be decided | Planned |
 
